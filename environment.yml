@@ -1,7 +1,8 @@
-name: week-1
+name: musa-620
 channels:
   - defaults
 dependencies:
+  - python=3.6
   - numpy
   - pandas
   - matplotlib
