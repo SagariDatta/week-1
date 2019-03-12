@@ -1,4 +1,4 @@
-# Week 1: Exploratory Data Science in Python
+# Week 1<br>Exploratory Data Science in Python
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MUSA-620-Spring-2019/week-1/master?filepath=lecture-1.ipynb)
 
